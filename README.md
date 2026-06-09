@@ -51,4 +51,4 @@ plant-disease-detection
 ## Author
 
 Nisha S
-M.Tech Data Science Student
+
